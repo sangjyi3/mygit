@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("Hellow world");
+	printf("Hellow world ver2");
 }
